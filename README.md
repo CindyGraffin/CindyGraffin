@@ -7,7 +7,7 @@
 - J'ai suivi deux formations:
     - Développeur Full Stack spé Angular avec l'organisme Studi
     - Développeur Full Stack en présentiel avec M2I
-- J'ai réalisé mon premier site professionnel: [Bulles de Coton](https://bullesdecoton.spa/) :baby:
+- J'ai réalisé mon premier site professionnel: [Bulles de Coton](https://www.bullesdecoton.spa/) :baby:
 
 
 
