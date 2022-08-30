@@ -1,7 +1,7 @@
-### Hello GitHub 👋  
+## Hello GitHub 👋  
 
 
-## 👩🏻‍💻  A propos de moi 
+### 👩🏻‍💻  A propos de moi 
 
 - Je suis développeuse Full Stack spécialisée dans les libraires et frameworks JavaScript
 - J'ai suivi deux formations:
