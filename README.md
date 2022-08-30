@@ -1,13 +1,20 @@
-## Hello GitHub 👋  
+## Hello GitHub,je m'appelle Cindy Graffin 🙌 
 
 
-### 👩🏻‍💻  A propos de moi 
+### 👩🏻‍💻 Mon parcours
 
 - Je suis développeuse Full Stack spécialisée dans les libraires et frameworks JavaScript
 - J'ai suivi deux formations:
     - Développeur Full Stack spé Angular avec l'organisme Studi
     - Développeur Full Stack en présentiel avec M2I
 - J'ai réalisé mon premier site web from scratch professionnel (avec HTML, CSS et JS): [Bulles de Coton](https://www.bullesdecoton.spa/) :baby:
+
+### ✏️ A propos de moi
+
+- 🌍 J'habite dans la métropole Lilloise 
+- 🧠 En ce moment j'étudie express, MySQL et TypeORM
+- 🤝 Je travaille en ce moment sur un projet en équipe de 4 dans le cadre de ma formation, dont le but est de réaliser une application compléte
+
 
 
 
