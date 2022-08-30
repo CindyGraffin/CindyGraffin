@@ -1,4 +1,4 @@
-![Bannière contenant le logo de Wheel Us Go, représenté par un poulet kawaï.](./bandeau.png?style=center)
+
 
 <!--
 **CindyGraffin/CindyGraffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
