@@ -13,9 +13,12 @@
 
 - 🌍 J'habite dans la métropole Lilloise 
 - 🧠 En ce moment j'étudie express, MySQL et TypeORM
-- 🤝 Je travaille en ce moment sur un projet en équipe de 4 dans le cadre de ma formation, dont le but est de réaliser une application compléte
+- 🤝 Je travaille en ce moment sur un projet en équipe de 4 dans le cadre de ma formation, dont le but est de réaliser une application compléte from scratch ([Wheel Us Go](https://github.com/CindyGraffin/wheel_us_go): projet d'organisation de sorties entre amis)
 
+### :eyes: N'hésitez pas à me contacter si vous avez envie d'échanger
 
+- 🚀 [Mon LinkedIn](https://www.linkedin.com/in/cindygraffin/)
+- ✉️ Mon adresse mail: [graffincindy@gmail.com](graffincindy@gmail.com) 
 
 
 
