@@ -1,4 +1,4 @@
-## Hello GitHub,je m'appelle Cindy 🙌 
+## Hello GitHub, je m'appelle Cindy 🙌 
 
 
 ### 👩🏻‍💻 Mon parcours
