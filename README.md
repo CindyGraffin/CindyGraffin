@@ -6,7 +6,7 @@
 - Je suis développeuse Full Stack spécialisée dans les libraires et frameworks JavaScript
 - J'ai suivi deux formations:
     - Développeur Full Stack spé Angular avec l'organisme Studi
-    - Développeur Full Stack en présentiel avec M2I
+    - Développeur Full Stack JavaScript en présentiel avec l'organisme M2I sur Villeneuve-d'Ascq
 - J'ai réalisé mon premier site web professionnel from scratch  (avec HTML, CSS et JS): [Bulles de Coton](https://www.bullesdecoton.spa/) :baby:
 
 ### ✏️ A propos de moi
