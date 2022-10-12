@@ -12,7 +12,7 @@
 ### ✏️ A propos de moi
 
 - 🌍 J'habite dans la métropole Lilloise 
-- 🧠 En ce moment j'étudie nestJS, PostgreSQL et TypeORM côté back-end et Angular côté front-end
+- 🧠 En ce moment j'étudie les outils Docker et Kubernetes
 - 🤝 Je travaille sur un projet en équipe de 5 dans le cadre de ma formation, dont le but est de réaliser une application compléte from scratch ([Wheel Us Go](https://github.com/CindyGraffin/wheel_us_go): projet d'organisation de sorties entre amis 🍗)
 
 ### :bulb: Stack:
